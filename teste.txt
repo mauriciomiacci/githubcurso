@@ -1,3 +1,5 @@
 #teste
 
-Este é um repostitorio de Teste como  Git
+Este é um repostitorio de Teste como Git.
+
+Verifique mais informações no site.
