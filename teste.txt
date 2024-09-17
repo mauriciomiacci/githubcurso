@@ -5,3 +5,5 @@ Este é um repostitorio de Teste como Git.
 Verifique mais informações no site.
 
 Uma nova mensagem " Teste 2 "
+
+Conectando no GitHub
